@@ -1,7 +1,5 @@
-# Akshitha_Kukudala ## whoami?
+# Akshitha_Kukudala 
 * **A Software Engineer** - PL/SQL developer with 7+ years of experience. 
-
-## *Trying to .*
 
 ## Education
 * **M.P.S** in *Data Science*, University of Maryland Baltimore County, MD
