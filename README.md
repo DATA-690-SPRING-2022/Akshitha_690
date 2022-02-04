@@ -3,11 +3,11 @@
 * **A Software Engineer** - PL/SQL developer with 7+ years of experience. 
 
 ## Education
-* **M.P.S** in *Data Science*, University of Maryland Baltimore County, MD                        2022-23
-* **B.Tech** in *Computer Science Engineering*, CVSR College of Engineering, Hyderabad, India     2010-14
+* **M.P.S** in *Data Science*, University of Maryland Baltimore County, MD,                        2022-23
+* **B.Tech** in *Computer Science Engineering*, CVSR College of Engineering, Hyderabad, India,     2010-14
 
 ## Work Experience
-* **Sr. Software Engineer**, Wells Fargo.                                                         2018-22
+* **Sr. Software Engineer**, Wells Fargo.,                                                         2018-22
 * Developed Outbound feeds for the retirement of a legacy application.
 * Established an Outbound Feed division from scratch by developing an efficient script during migration to a new database.
 * Provided developer support for 10+ Enterprise releases. Provided quick solutions and got the problem tickets approved.
@@ -15,7 +15,7 @@
 * Developed scripts on NodeJS and MongoDB for a module which has improved the performance by 30%. Created an API for CRUD operations on MongoDB.
 * Worked with Abinitio to read and interpret the transformation logics which were used in the design of DB objects.
 * Automated DB testing and validation of our inhouse project which has reduced the manual intervention by 40%
-* **Software Engineer** , IQVIA.                                                                  2014-18
+* **Software Engineer** , IQVIA.,                                                                  2014-18
 * Completed the certifications on company's legacy products  MI and OM. 
 * Interacted with end users and functional analysts to identify and develop business specification document (BSD) and transform it into technical requirements.
 * Worked for Organization Manager application for clients (PFIZER OM- US, EU) for the OM 12 Upgradation. 
@@ -29,8 +29,8 @@
 * **Best Performer**, IQVIA, 2015
 
 ## Hobbies
-- **Portrait Sketching & Painting** Self learnt portrait artist
-- **Yoga Lover and Instructor** Certified 200 YTT Yoga instructor
-- **Trekking** Finished one day and two day treks in Western Ghats, India
-- **Running**, Participated in 10K Marathons.
+- **Portrait Sketching & Painting** - Self learnt portrait artist
+- **Yoga Lover and Instructor** - Certified 200 YTT Yoga instructor
+- **Trekking** - Finished one day and two day treks in Western Ghats, India
+- **Running** - Participated in 10K Marathons.
 
