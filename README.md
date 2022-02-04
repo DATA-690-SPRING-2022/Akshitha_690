@@ -1,4 +1,5 @@
 # Akshitha_Kukudala 
+https://www.linkedin.com/in/akshitha-kukudala/
 * **Data Science Student** - Learning data-driven, action-oriented solutions to challenging business problems
 * **A Software Engineer** - PL/SQL developer with 7+ years of experience. 
 
