@@ -2,12 +2,12 @@
 * **A Software Engineer** - PL/SQL developer with 7+ years of experience. 
 
 ## Education
-* **M.P.S** in *Data Science*, University of Maryland Baltimore County, MD
-* **B.Tech** in *Computer Science Engineering*, CVSR College of Engineering, Hyderabad, India
+* **M.P.S** in *Data Science*, University of Maryland Baltimore County, MD                        2022-23
+* **B.Tech** in *Computer Science Engineering*, CVSR College of Engineering, Hyderabad, India     2010-14
 
 ## Work Experience
-* **Sr. Software Engineer**, Wells Fargo. 2018 to 2022
-* **Software Engineer** , IQVIA. 2014 to 2018
+* **Sr. Software Engineer**, Wells Fargo.                                                         2018-22
+* **Software Engineer** , IQVIA.                                                                  2014-18
 
 ## Certifications
 * **SQL Expert (1Z0-047)**, Oracle
